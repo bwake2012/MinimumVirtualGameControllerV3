@@ -1,4 +1,4 @@
-// ViewController.swift
+// RootViewController.swift
 //
 // Created by Bob Wakefield on 3/6/23.
 // for MinimumVirtualGameControllerV3
@@ -11,7 +11,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RootViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
